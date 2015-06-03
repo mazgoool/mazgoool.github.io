@@ -12,8 +12,8 @@ body {
 
 h1 {
 	clear: left;
-	color: #68266F;
-	font-family: 'Indie Flower', cursive;
+	color: #A70000;
+	font-family: 'font-family: 'Lobster', cursive;
 	padding-left: 100px;
 	border-width: 2px;
 	border-style: dashed;
@@ -23,11 +23,11 @@ h1 {
 .pullquote {
 	margin-left:75px;
 	margin-right:125px;
-	font-size: 1.5em;
+	font-size: 1.6em;
 }
 
 p {
-	color: #320138;
+	color: #FF6F00;
 }
 
 nav ul li {
